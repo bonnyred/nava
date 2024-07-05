@@ -1,1 +1,41 @@
 
+Terms of Service
+1. Acceptance of Terms
+By using the Nava Bot, you agree to comply with and be bound by the following terms and conditions. If you do not agree to these terms, please do not use the Bot.
+
+2. Description of Service
+This Bot provides moderation, games, fun commands, etc. The Bot commands used by the bot are made by the owner and their team, and the aesthetic and commands should not be directly copied without permission from the team.
+
+3. User Conduct
+Users agree to use the Bot in compliance with all applicable local, state, national, and international laws and regulations. Users must not:
+
+- Use the Bot for any illegal or unauthorized purpose.
+- Harass, abuse, or harm another person or group.
+- Intentioanlly Interfere with or disrupt the Bot.
+
+4. Privacy
+We respect your privacy. The Bot may collect certain information as outlined in our Privacy Policy. By using the Bot, you consent to the collection and use of this information.
+
+5. Intellectual Property
+All content, trademarks, and data on or available through the Bot, including but not limited to text, graphics, and software, are the property of stupeeed and are protected by intellectual property laws. Users are not permitted to use any content without permission.
+
+6. Modifications to Service
+We reserve the right to modify or discontinue the Bot, temporarily or permanently, with or without notice to the users. We will not be liable for any modification, suspension, or discontinuation of the Bot.
+
+7. Termination
+We reserve the right to terminate or restrict your access to the Bot for any reason, including, without limitation, if we believe that you have violated or acted inconsistently with the letter or spirit of these Terms of Service.
+
+8. Disclaimer of Warranties
+We expressly disclaim all warranties of any kind, whether express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+9. Limitation of Liability
+We shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses resulting from the use or inability to use the Bot.
+
+10. Governing Law
+These Terms of Service shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law principles.
+
+11. Changes to Terms of Service
+We may revise these Terms of Service from time to time. The most current version will always be available at [link to TOS]. By continuing to use the Bot after changes become effective, you agree to be bound by the revised Terms of Service.
+
+12. Contact Information
+If you have any questions about these Terms of Service, please dm stupeeed, or mail ahmed.naish.exe@gmail.com
